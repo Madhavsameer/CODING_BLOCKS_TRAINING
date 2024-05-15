@@ -1,0 +1,6 @@
+1. We have learnt about different data types their size and ranges
+2. We have learnt about different operators Arithmetic, Assignment, (Homework), Comaprision
+ Logical
+3. We have learn about conditional statements
+4. We have learnt about looping conecepts
+
