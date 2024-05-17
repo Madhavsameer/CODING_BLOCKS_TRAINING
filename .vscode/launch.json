@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AssignmentOperator",
+            "request": "launch",
+            "mainClass": "AssignmentOperator",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "arrayprac",
+            "request": "launch",
+            "mainClass": "arrayprac",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "conditionals",
+            "request": "launch",
+            "mainClass": "conditionals",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "dataTypes",
+            "request": "launch",
+            "mainClass": "dataTypes",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "day2",
+            "request": "launch",
+            "mainClass": "day2",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "day3",
+            "request": "launch",
+            "mainClass": "day3",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "firstprogram",
+            "request": "launch",
+            "mainClass": "firstprogram",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "looping",
+            "request": "launch",
+            "mainClass": "looping",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "operators",
+            "request": "launch",
+            "mainClass": "operators",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "patternpractice",
+            "request": "launch",
+            "mainClass": "patternpractice",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "scanning",
+            "request": "launch",
+            "mainClass": "scanning",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "typeConversion",
+            "request": "launch",
+            "mainClass": "typeConversion",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        }
+    ]
+}
