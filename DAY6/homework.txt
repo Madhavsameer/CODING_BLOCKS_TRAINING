@@ -1,0 +1,10 @@
+1. Findlargest
+2. FindSmallest
+3. FindSum
+4. SumInRange
+5. FindElement
+6. FindSmallestInRange
+7. FindLargestInRange
+
+
+write the code and dry run for all the given questions.

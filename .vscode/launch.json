@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "day6",
+            "request": "launch",
+            "mainClass": "day6",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "testarray",
+            "request": "launch",
+            "mainClass": "testarray",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "arrprac",
+            "request": "launch",
+            "mainClass": "arrprac",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "functiontu",
+            "request": "launch",
+            "mainClass": "functiontu",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "day4",
+            "request": "launch",
+            "mainClass": "day4",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "StarPattern",
+            "request": "launch",
+            "mainClass": "StarPattern",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
