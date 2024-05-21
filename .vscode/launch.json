@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "arpanarray",
+            "request": "launch",
+            "mainClass": "arpanarray",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "arrayreversal",
+            "request": "launch",
+            "mainClass": "arrayreversal",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "reversearray",
+            "request": "launch",
+            "mainClass": "reversearray",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "printhello",
+            "request": "launch",
+            "mainClass": "printhello",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "arraysum",
+            "request": "launch",
+            "mainClass": "arraysum",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
             "name": "day6",
             "request": "launch",
             "mainClass": "day6",

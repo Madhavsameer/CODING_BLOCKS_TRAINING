@@ -1,8 +1,26 @@
 import java.util.Scanner;
 public class day6 {
     public static void main(String[] args) {
+        System.out.println("Enter the number of element in array: ");
+        Scanner sc = new Scanner(System.in);
+        int n=sc.nextInt();
+        int myArr[]=new int[n];
 
-        int myArr[]={10,7,18,5,4};
+        System.out.print("Enter the element of array: ");
+        for(int i=0; i<n; i++){
+            myArr[i]=sc.nextInt();
+        }
+
+        System.out.print("Your array is: ");
+        for(int i=0; i<myArr.length; i++){
+            System.out.print(myArr[i]+" \t");
+           
+        }
+        System.out.println();
+
+
+
+        
         findElement(myArr, 7);
         findLargest(myArr);
         findSmallest(myArr);
@@ -26,6 +44,7 @@ public class day6 {
 
            
         }
+        System.out.println("Number not found");
 
         return 1;
         
@@ -39,6 +58,7 @@ public class day6 {
             if(arr[i]>largestElement){
                 largestElement=arr[i];
             }
+           
 
         }
         System.out.println("The largest element is "+largestElement);
