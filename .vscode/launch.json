@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "day8homes",
+            "request": "launch",
+            "mainClass": "day8homes",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "day8home",
+            "request": "launch",
+            "mainClass": "day8home",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "rotatearraybyone",
+            "request": "launch",
+            "mainClass": "rotatearraybyone",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
             "name": "arpanarray",
             "request": "launch",
             "mainClass": "arpanarray",
