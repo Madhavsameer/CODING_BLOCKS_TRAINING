@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "arrysortedelement",
+            "request": "launch",
+            "mainClass": "arrysortedelement",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "sorting",
+            "request": "launch",
+            "mainClass": "sorting",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
             "name": "day8homes",
             "request": "launch",
             "mainClass": "day8homes",

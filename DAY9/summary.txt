@@ -1,0 +1,4 @@
+bubble sort
+selection sort
+insertion sow
+write a function to find the smallest element using a sort function
