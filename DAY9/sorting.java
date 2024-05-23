@@ -6,7 +6,7 @@ public class sorting {
         Arrays.sort(myArr);
         printArr(myArr);
 
-        // bubbleSort(myArr);
+        bubbleSort(myArr);
         // selectionSort(myArr);
         // insertionSort(myArr);
         
@@ -68,12 +68,12 @@ public class sorting {
 
 
     public static void swap(int arr[], int firstIndex, int secondIndex){
-        for(int i=0; i<arr.length; i++){
+        
             int temp= arr[firstIndex];
             arr[firstIndex]=arr[secondIndex];
             arr[secondIndex]=temp;
         }
-    }
+    
 
     public static void printArr(int arr[]){
         for(int i:arr){

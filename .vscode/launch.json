@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "selectionSort",
+            "request": "launch",
+            "mainClass": "selectionSort",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "insertionSort",
+            "request": "launch",
+            "mainClass": "insertionSort",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "bubbleSort",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
             "name": "arrysortedelement",
             "request": "launch",
             "mainClass": "arrysortedelement",
