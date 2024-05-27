@@ -9,8 +9,8 @@ public class bubbleSort {
 
     
     public static void bubbleSort(int arr[]){
-        for(int turn = 1; turn < arr.length; turn++){
-            for(int i = 0; i < arr.length - turn; i++){
+        for(int turn = 0; turn < arr.length-1; turn++){
+            for(int i = 0; i < arr.length - turn-1; i++){
                 if(arr[i] > arr[i + 1]){
                     swap(arr, i, i + 1);
                 }

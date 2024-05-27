@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "stri",
+            "request": "launch",
+            "mainClass": "stri",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "foreachloop",
+            "request": "launch",
+            "mainClass": "foreachloop",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "question",
+            "request": "launch",
+            "mainClass": "question",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "booksearching",
+            "request": "launch",
+            "mainClass": "booksearching",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "searchNum",
+            "request": "launch",
+            "mainClass": "searchNum",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "NumberPattern",
+            "request": "launch",
+            "mainClass": "NumberPattern",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
             "name": "selectionSort",
             "request": "launch",
             "mainClass": "selectionSort",

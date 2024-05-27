@@ -2,7 +2,6 @@ public class selectionSort {
     public static void main(String[] args) {
 
         int myArr[]={8,3,5,9,7,6};
-
         selectionSort(myArr);
         
     }
