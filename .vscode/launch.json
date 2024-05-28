@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "coinChange",
+            "request": "launch",
+            "mainClass": "coinChange",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "facto",
+            "request": "launch",
+            "mainClass": "facto",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "pracday13",
+            "request": "launch",
+            "mainClass": "pracday13",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "recurs",
+            "request": "launch",
+            "mainClass": "recurs",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList2",
+            "request": "launch",
+            "mainClass": "ArrayList2",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListQues",
+            "request": "launch",
+            "mainClass": "ArrayListQues",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "arraylistt",
+            "request": "launch",
+            "mainClass": "arraylistt",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "wrapper",
+            "request": "launch",
+            "mainClass": "wrapper",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
             "name": "stri",
             "request": "launch",
             "mainClass": "stri",
