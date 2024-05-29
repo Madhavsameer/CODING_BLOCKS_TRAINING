@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringReverse",
+            "request": "launch",
+            "mainClass": "StringReverse",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "generateParenthesis",
+            "request": "launch",
+            "mainClass": "generateParenthesis",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "recursionpractices",
+            "request": "launch",
+            "mainClass": "recursionpractices",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "recprac",
+            "request": "launch",
+            "mainClass": "recprac",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
             "name": "coinChange",
             "request": "launch",
             "mainClass": "coinChange",

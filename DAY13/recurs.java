@@ -33,17 +33,15 @@ public class recurs {
         for(int i=1; i<=p; i++){
             power*=x;
         }
-
         return power;
     }
 
     public static int powerfunctions (int x, int p){ 
        if(p==0) return 1;
        int ans= x*powerfunctions(x, p-1);
-
         return ans;
     }
-
+//eureca moment
     public static int fibonnaci(int n){
 
         if(n==0 || n==1) return n;

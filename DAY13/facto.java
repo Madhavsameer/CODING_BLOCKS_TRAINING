@@ -4,9 +4,6 @@ public class facto {
         int myArr[]={8,5,6,3,9,7};
         System.out.println(factorial(5));
         System.out.println(sumrec(myArr, 0, 0));
-        
-
-
     }
 
     public static int factorial(int n){
