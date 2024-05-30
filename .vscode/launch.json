@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClassRoom",
+            "request": "launch",
+            "mainClass": "ClassRoom",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
             "name": "StringReverse",
             "request": "launch",
             "mainClass": "StringReverse",
