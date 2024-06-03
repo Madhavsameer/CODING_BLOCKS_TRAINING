@@ -22,12 +22,21 @@ public class Student {
         this.name=name;
         
     }
-    public Student (String name, int age, int roll, char section, String branch){
+    public Student (String name, int age, int roll, char section, String branch) throws Exception {
         this.name=name;
+        
         this.age=age;
+        if(age<1 || age>50)
+        throw new Exception("Age must be greater than one");
+        
         this.roll=roll;
         this.section=section;
         this.branch=branch;
+    }
+
+    public Student(String name , int age){
+        this.name=name;
+        this.age=age;
     }
 
     static{

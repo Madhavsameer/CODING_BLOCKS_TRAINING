@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedLists",
+            "request": "launch",
+            "mainClass": "LinkedLists",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "NextGreatestElement",
+            "request": "launch",
+            "mainClass": "NextGreatestElement",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "StackPractice",
+            "request": "launch",
+            "mainClass": "StackPractice",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "Testing",
+            "request": "launch",
+            "mainClass": "Testing",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionHandlings",
+            "request": "launch",
+            "mainClass": "ExceptionHandlings",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
             "name": "ClassRoom",
             "request": "launch",
             "mainClass": "ClassRoom",
