@@ -113,9 +113,8 @@ public class LinkedListManually {
             curr=head;
             right=head.next;
 
-            while(right!= null){
+            while(curr!= null){
                 curr.next=prev;
-                
                 curr=right;
                 right=curr.next;
             }
@@ -123,6 +122,13 @@ public class LinkedListManually {
 
         
         }
+
+        
+
+    }
+
+    public int findl(int d){
+        node curr=head;
 
     }
 
@@ -135,6 +141,8 @@ public class LinkedListManually {
         System.out.println(ll);
         
     }
+
+
 
     
     

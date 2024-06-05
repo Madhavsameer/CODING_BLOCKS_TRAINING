@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hey",
+            "request": "launch",
+            "mainClass": "hey",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "linkedlistsum",
+            "request": "launch",
+            "mainClass": "linkedlistsum",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
             "name": "LinkedLists",
             "request": "launch",
             "mainClass": "LinkedLists",
