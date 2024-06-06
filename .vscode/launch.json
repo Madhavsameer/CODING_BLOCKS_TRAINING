@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Llsum",
+            "request": "launch",
+            "mainClass": "Llsum",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "LlRevision",
+            "request": "launch",
+            "mainClass": "LlRevision",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyOfElement",
+            "request": "launch",
+            "mainClass": "FrequencyOfElement",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
+            "name": "HashTables",
+            "request": "launch",
+            "mainClass": "HashTables",
+            "projectName": "CODING BLOCKS TRAINING_3b460337"
+        },
+        {
+            "type": "java",
             "name": "hey",
             "request": "launch",
             "mainClass": "hey",
